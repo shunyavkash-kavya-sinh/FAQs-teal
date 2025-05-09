@@ -1,0 +1,45 @@
+@media only screen and (max-width: 1240px) {
+  .main-faq-block {
+    width: 100%;
+  }
+
+  .two-col-blog {
+    gap: 40px;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .acc-sec {
+    padding: 40px 0px;
+  }
+
+  .cont-title {
+    font-size: 35px;
+  }
+
+  .faq-title {
+    font-size: 14px;
+  }
+
+  .faq-icon {
+    width: 18px;
+    height: 18px;
+  }
+
+  .faq-content {
+    font-size: 12px;
+  }
+
+  .cont-dec {
+    font-size: 12px;
+    margin-bottom: 20px;
+  }
+
+  ul li::marker {
+    font-size: 12px;
+  }
+
+  ol li::marker {
+    font-size: 12px;
+  }
+}
